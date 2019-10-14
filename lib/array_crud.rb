@@ -7,8 +7,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  p "#{array}.pop("arrays")"
-  p "#{element}.pop("arrays")"
+  p "#{array}.pop("something")"
+  p "#{element}.pop("something")"
 end
 
 def add_element_to_start_of_array(array, element)
